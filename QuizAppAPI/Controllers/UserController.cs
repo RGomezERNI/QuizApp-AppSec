@@ -1,10 +1,12 @@
 ﻿using System.Security.Cryptography;
 using System.Text;
 using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using QuizAppAPI.Data;
+using QuizAppAPI.Model;
 using QuizAppAPI.Model.DTO.Users;
 using QuizAppAPI.Model.DTO.UsersDTOs;
 using QuizAppAPI.Model.Entity;
@@ -60,28 +62,36 @@ namespace QuizAppAPI.Controllers
         }
 
         [HttpPost("SignIn")]
-        public async Task<ActionResult<LoginResponseDTO>> Login(UserRegisterDTO userDto)
+        public async Task<ActionResult<LoginResponseDTO>> Login([FromBody] UserLoginDTO userDto, [FromServices] TokenProvider tokenProvider)
         {
             if (userDto == null || string.IsNullOrEmpty(userDto.UserName) || string.IsNullOrEmpty(userDto.Password))
             {
                 return BadRequest("Invalid user data.");
             }
 
-            if (await _quizDbContext.Users.AnyAsync(u => u.UserName == userDto.UserName))
+            var user = await _quizDbContext.Users.FirstOrDefaultAsync(u => u.UserName == userDto.UserName);
+            if (user == null)
             {
-                var user = await _quizDbContext.Users.Where(user => user.UserName == userDto.UserName).FirstOrDefaultAsync();
-
-                if (user.Password == HashPassword(userDto.Password))
-                {
-                    var loginresponse = _userMapper.Map<LoginResponseDTO>(user);
-                    return (ActionResult<LoginResponseDTO>)Ok(loginresponse);
-                } 
-                else 
-                { 
-                    return (ActionResult<LoginResponseDTO>)BadRequest("Incorrect Password"); 
-                }
+                return BadRequest("Username does not exist!");
             }
-            return BadRequest("Username does not exist!");
+
+            if (user.Password == HashPassword(userDto.Password))
+            {
+                var loginresponse = _userMapper.Map<LoginResponseDTO>(user);
+                string token = tokenProvider.Create(user);
+
+                // Return an object containing both the login response and the token
+                return Ok(new { LoginResponse = loginresponse, Token = token });
+            }
+            else
+            {
+                return BadRequest("Incorrect Password");
+            }
+        }
+
+        private ActionResult<LoginResponseDTO> Ok(LoginResponseDTO loginresponse, string token)
+        {
+            throw new NotImplementedException();
         }
 
         [HttpPost("Register")]
@@ -107,7 +117,8 @@ namespace QuizAppAPI.Controllers
             var addUser = new User
             {
                 UserName = userDto.UserName,
-                Password = HashPassword(userDto.Password), 
+                Password = HashPassword(userDto.Password),
+                Role = userDto.Role,
                 CreatedAt = DateTime.Now,
                 LastUpdatedAt = DateTime.Now
             };
@@ -141,6 +152,7 @@ namespace QuizAppAPI.Controllers
         }
 
         [HttpDelete("DeleteUser/{id}")]
+        
         public async Task<IActionResult> DeleteUser(int id)
         {
             var user = await _quizDbContext.Users.FindAsync(id);

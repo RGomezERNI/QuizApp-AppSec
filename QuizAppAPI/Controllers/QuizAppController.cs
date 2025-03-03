@@ -1,4 +1,5 @@
 using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using QuizAppAPI.Data;
@@ -22,6 +23,7 @@ namespace QuizAppAPI.Controllers
         }
 
         [HttpGet]
+        //[Authorize(Roles ="Admin")]
         public async Task<ActionResult<IEnumerable<QuizInfoDTO>>> GetAllQuizzes()
         {
             var quizzes = await _quizDbContext.Quizzes.Include(q => q.Users).Include(q => q.QandAs).ToListAsync();
@@ -89,6 +91,7 @@ namespace QuizAppAPI.Controllers
         }
 
         [HttpDelete("{id}")]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> DeleteQuiz(int id)
         {
             var quiz = await _quizDbContext.Quizzes.FindAsync(id);

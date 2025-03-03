@@ -12,8 +12,8 @@ using QuizAppAPI.Data;
 namespace QuizAppAPI.Migrations
 {
     [DbContext(typeof(QuizDbContext))]
-    [Migration("20250212065530_Updated QandA Entity")]
-    partial class UpdatedQandAEntity
+    [Migration("20250228050729_updated-Entities")]
+    partial class updatedEntities
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -59,11 +59,11 @@ namespace QuizAppAPI.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("QuizId"));
 
-                    b.Property<string>("QuitTopic")
+                    b.Property<string>("QuizName")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("QuizName")
+                    b.Property<string>("QuizTopic")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -95,6 +95,10 @@ namespace QuizAppAPI.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("Role")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("UserName")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -106,11 +110,13 @@ namespace QuizAppAPI.Migrations
 
             modelBuilder.Entity("QuizAppAPI.Model.Entity.QandA", b =>
                 {
-                    b.HasOne("QuizAppAPI.Model.Entity.Quiz", null)
+                    b.HasOne("QuizAppAPI.Model.Entity.Quiz", "Quizzes")
                         .WithMany("QandAs")
                         .HasForeignKey("QuizId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+
+                    b.Navigation("Quizzes");
                 });
 
             modelBuilder.Entity("QuizAppAPI.Model.Entity.Quiz", b =>

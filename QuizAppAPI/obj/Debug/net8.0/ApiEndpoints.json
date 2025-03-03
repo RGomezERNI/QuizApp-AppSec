@@ -227,7 +227,7 @@
     "Parameters": [
       {
         "Name": "userDto",
-        "Type": "QuizAppAPI.Model.DTO.Users.UserRegisterDTO",
+        "Type": "QuizAppAPI.Model.DTO.UsersDTOs.UserLoginDTO",
         "IsRequired": true
       }
     ],

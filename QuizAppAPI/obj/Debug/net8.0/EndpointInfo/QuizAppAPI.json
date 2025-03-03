@@ -480,17 +480,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/UserRegisterDTO"
+                "$ref": "#/components/schemas/UserLoginDTO"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/UserRegisterDTO"
+                "$ref": "#/components/schemas/UserLoginDTO"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/UserRegisterDTO"
+                "$ref": "#/components/schemas/UserLoginDTO"
               }
             }
           }
@@ -808,6 +808,7 @@
       "User": {
         "required": [
           "password",
+          "role",
           "userName"
         ],
         "type": "object",
@@ -821,6 +822,10 @@
             "nullable": true
           },
           "password": {
+            "type": "string",
+            "nullable": true
+          },
+          "role": {
             "type": "string",
             "nullable": true
           },
@@ -879,7 +884,7 @@
         },
         "additionalProperties": false
       },
-      "UserRegisterDTO": {
+      "UserLoginDTO": {
         "required": [
           "password",
           "userName"
@@ -891,6 +896,29 @@
             "nullable": true
           },
           "password": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "UserRegisterDTO": {
+        "required": [
+          "password",
+          "role",
+          "userName"
+        ],
+        "type": "object",
+        "properties": {
+          "userName": {
+            "type": "string",
+            "nullable": true
+          },
+          "password": {
+            "type": "string",
+            "nullable": true
+          },
+          "role": {
             "type": "string",
             "nullable": true
           }

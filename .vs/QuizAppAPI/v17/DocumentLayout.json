@@ -3,20 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|c:\\users\\extgora\\source\\repos\\quizappapi\\quizappapi\\model\\tokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|solutionrelative:quizappapi\\model\\tokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\extgora\\AppData\\Roaming\\Microsoft\\UserSecrets\\06b2b341-1ba5-4f29-b3dd-a5f0c7bc53e0\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|c:\\users\\extgora\\source\\repos\\quizappapi\\quizappapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|solutionrelative:quizappapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|c:\\users\\extgora\\source\\repos\\quizappapi\\quizappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|solutionrelative:quizappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|c:\\users\\extgora\\source\\repos\\quizappapi\\quizappapi\\controllers\\quizappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|solutionrelative:quizappapi\\controllers\\quizappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|c:\\users\\extgora\\source\\repos\\quizappapi\\quizappapi\\profiles\\quizzesprofiles\\quizzesmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|solutionrelative:quizappapi\\profiles\\quizzesprofiles\\quizzesmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|c:\\users\\extgora\\source\\repos\\quizappapi\\quizappapi\\controllers\\qandacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|solutionrelative:quizappapi\\controllers\\qandacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|c:\\users\\extgora\\source\\repos\\quizappapi\\quizappapi\\model\\dto\\quizdtos\\patchquizdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|solutionrelative:quizappapi\\model\\dto\\quizdtos\\patchquizdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|c:\\users\\extgora\\source\\repos\\quizappapi\\quizappapi\\model\\dto\\quizdtos\\addupquizdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|solutionrelative:quizappapi\\model\\dto\\quizdtos\\addupquizdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|c:\\users\\extgora\\source\\repos\\quizappapi\\quizappapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|solutionrelative:quizappapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|c:\\users\\extgora\\source\\repos\\quizappapi\\quizappapi\\model\\dto\\qandasdtos\\qandainfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,8 +38,56 @@
       "RelativeMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|solutionrelative:quizappapi\\model\\dto\\quizdtos\\quizinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|c:\\users\\extgora\\source\\repos\\quizappapi\\quizappapi\\controllers\\qandacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|solutionrelative:quizappapi\\controllers\\qandacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|c:\\users\\extgora\\source\\repos\\quizappapi\\quizappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|solutionrelative:quizappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|c:\\users\\extgora\\source\\repos\\quizappapi\\quizappapi\\model\\dto\\usersdtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|solutionrelative:quizappapi\\model\\dto\\usersdtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|c:\\users\\extgora\\source\\repos\\quizappapi\\quizappapi\\model\\dto\\quizdtos\\addupquizdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|solutionrelative:quizappapi\\model\\dto\\quizdtos\\addupquizdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|c:\\users\\extgora\\source\\repos\\quizappapi\\quizappapi\\model\\dto\\usersdtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|solutionrelative:quizappapi\\model\\dto\\usersdtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|c:\\users\\extgora\\source\\repos\\quizappapi\\quizappapi\\model\\dto\\usersdtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|solutionrelative:quizappapi\\model\\dto\\usersdtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|c:\\users\\extgora\\source\\repos\\quizappapi\\quizappapi\\model\\dto\\usersdtos\\userloginregdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|solutionrelative:quizappapi\\model\\dto\\usersdtos\\userloginregdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Migrations\\20250228050621_updated-Entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuizAppAPI\\Migrations\\20250228050621_updated-Entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|c:\\users\\extgora\\source\\repos\\quizappapi\\quizappapi\\model\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|solutionrelative:quizappapi\\model\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|c:\\users\\extgora\\source\\repos\\quizappapi\\quizappapi\\model\\dto\\usersdtos\\userinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|solutionrelative:quizappapi\\model\\dto\\usersdtos\\userinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|c:\\users\\extgora\\source\\repos\\quizappapi\\quizappapi\\model\\dto\\usersdtos\\userchangepassdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|solutionrelative:quizappapi\\model\\dto\\usersdtos\\userchangepassdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|c:\\users\\extgora\\source\\repos\\quizappapi\\quizappapi\\quizappapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|solutionrelative:quizappapi\\quizappapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|c:\\users\\extgora\\source\\repos\\quizappapi\\quizappapi\\profiles\\quizzesprofiles\\quizzesmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|solutionrelative:quizappapi\\profiles\\quizzesprofiles\\quizzesmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|c:\\users\\extgora\\source\\repos\\quizappapi\\quizappapi\\model\\dto\\quizdtos\\patchquizdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|solutionrelative:quizappapi\\model\\dto\\quizdtos\\patchquizdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|c:\\users\\extgora\\source\\repos\\quizappapi\\quizappapi\\profiles\\qandaprofiles\\qandamappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,52 +98,16 @@
       "RelativeMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|solutionrelative:quizappapi\\profiles\\usersprofiles\\usermappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|c:\\users\\extgora\\source\\repos\\quizappapi\\quizappapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|solutionrelative:quizappapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|c:\\users\\extgora\\source\\repos\\quizappapi\\quizappapi\\model\\dto\\usersdtos\\userchangepassdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|solutionrelative:quizappapi\\model\\dto\\usersdtos\\userchangepassdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|c:\\users\\extgora\\source\\repos\\quizappapi\\quizappapi\\model\\entity\\qanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|solutionrelative:quizappapi\\model\\entity\\qanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|c:\\users\\extgora\\source\\repos\\quizappapi\\quizappapi\\model\\dto\\usersdtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|solutionrelative:quizappapi\\model\\dto\\usersdtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|c:\\users\\extgora\\source\\repos\\quizappapi\\quizappapi\\quizappapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|solutionrelative:quizappapi\\quizappapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|c:\\users\\extgora\\source\\repos\\quizappapi\\quizappapi\\model\\dto\\usersdtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|solutionrelative:quizappapi\\model\\dto\\usersdtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|c:\\users\\extgora\\source\\repos\\quizappapi\\quizappapi\\model\\dto\\usersdtos\\userloginregdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|solutionrelative:quizappapi\\model\\dto\\usersdtos\\userloginregdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|c:\\users\\extgora\\source\\repos\\quizappapi\\quizappapi\\model\\dto\\usersdtos\\userinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|solutionrelative:quizappapi\\model\\dto\\usersdtos\\userinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|c:\\users\\extgora\\source\\repos\\quizappapi\\quizappapi\\model\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|solutionrelative:quizappapi\\model\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|c:\\users\\extgora\\source\\repos\\quizappapi\\quizappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|solutionrelative:quizappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|c:\\users\\extgora\\source\\repos\\quizappapi\\quizappapi\\model\\entity\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|solutionrelative:quizappapi\\model\\entity\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|c:\\users\\extgora\\source\\repos\\quizappapi\\quizappapi\\migrations\\20250213060022_made updates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|solutionrelative:quizappapi\\migrations\\20250213060022_made updates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|c:\\users\\extgora\\source\\repos\\quizappapi\\quizappapi\\migrations\\20250228050729_updated-entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9038E9D-2297-4D35-97F5-1068B048F856}|QuizAppAPI\\QuizAppAPI.csproj|solutionrelative:quizappapi\\migrations\\20250228050729_updated-entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,7 +117,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 260,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -118,20 +141,128 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PatchQuizDTO.cs",
-              "DocumentMoniker": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Model\\DTO\\QuizDTOs\\PatchQuizDTO.cs",
-              "RelativeDocumentMoniker": "QuizAppAPI\\Model\\DTO\\QuizDTOs\\PatchQuizDTO.cs",
-              "ToolTip": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Model\\DTO\\QuizDTOs\\PatchQuizDTO.cs",
-              "RelativeToolTip": "QuizAppAPI\\Model\\DTO\\QuizDTOs\\PatchQuizDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "TokenProvider.cs",
+              "DocumentMoniker": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Model\\TokenProvider.cs",
+              "RelativeDocumentMoniker": "QuizAppAPI\\Model\\TokenProvider.cs",
+              "ToolTip": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Model\\TokenProvider.cs",
+              "RelativeToolTip": "QuizAppAPI\\Model\\TokenProvider.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T06:49:55.488Z",
+              "WhenOpened": "2025-02-28T03:02:59.872Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "QuizAppAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\appsettings.Development.json",
+              "RelativeToolTip": "QuizAppAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-28T05:28:10.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuizInfoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Model\\DTO\\QuizDTOs\\QuizInfoDTO.cs",
+              "RelativeDocumentMoniker": "QuizAppAPI\\Model\\DTO\\QuizDTOs\\QuizInfoDTO.cs",
+              "ToolTip": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Model\\DTO\\QuizDTOs\\QuizInfoDTO.cs",
+              "RelativeToolTip": "QuizAppAPI\\Model\\DTO\\QuizDTOs\\QuizInfoDTO.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T02:16:19.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QandAController.cs",
+              "DocumentMoniker": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Controllers\\QandAController.cs",
+              "RelativeDocumentMoniker": "QuizAppAPI\\Controllers\\QandAController.cs",
+              "ToolTip": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Controllers\\QandAController.cs",
+              "RelativeToolTip": "QuizAppAPI\\Controllers\\QandAController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAYwFYAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T08:15:15.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QandAInfoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Model\\DTO\\QandAsDTOs\\QandAInfoDTO.cs",
+              "RelativeDocumentMoniker": "QuizAppAPI\\Model\\DTO\\QandAsDTOs\\QandAInfoDTO.cs",
+              "ToolTip": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Model\\DTO\\QandAsDTOs\\QandAInfoDTO.cs",
+              "RelativeToolTip": "QuizAppAPI\\Model\\DTO\\QandAsDTOs\\QandAInfoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T02:17:56.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "QuizAppAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\appsettings.json",
+              "RelativeToolTip": "QuizAppAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-28T05:06:50.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\extgora\\AppData\\Roaming\\Microsoft\\UserSecrets\\06b2b341-1ba5-4f29-b3dd-a5f0c7bc53e0\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\06b2b341-1ba5-4f29-b3dd-a5f0c7bc53e0\\secrets.json",
+              "ToolTip": "C:\\Users\\extgora\\AppData\\Roaming\\Microsoft\\UserSecrets\\06b2b341-1ba5-4f29-b3dd-a5f0c7bc53e0\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\06b2b341-1ba5-4f29-b3dd-a5f0c7bc53e0\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-28T03:31:44.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuizAppController.cs",
+              "DocumentMoniker": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Controllers\\QuizAppController.cs",
+              "RelativeDocumentMoniker": "QuizAppAPI\\Controllers\\QuizAppController.cs",
+              "ToolTip": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Controllers\\QuizAppController.cs",
+              "RelativeToolTip": "QuizAppAPI\\Controllers\\QuizAppController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAkwF0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T07:58:50.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "QuizAppAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "QuizAppAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAowFYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T07:56:07.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddUpQuizDTO.cs",
+              "DocumentMoniker": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Model\\DTO\\QuizDTOs\\AddUpQuizDTO.cs",
+              "RelativeDocumentMoniker": "QuizAppAPI\\Model\\DTO\\QuizDTOs\\AddUpQuizDTO.cs",
+              "ToolTip": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Model\\DTO\\QuizDTOs\\AddUpQuizDTO.cs",
+              "RelativeToolTip": "QuizAppAPI\\Model\\DTO\\QuizDTOs\\AddUpQuizDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T02:19:08.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "LoginResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Model\\DTO\\UsersDTOs\\LoginResponseDTO.cs",
               "RelativeDocumentMoniker": "QuizAppAPI\\Model\\DTO\\UsersDTOs\\LoginResponseDTO.cs",
@@ -143,197 +274,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "QandAMappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Profiles\\QandAProfiles\\QandAMappingProfile.cs",
-              "RelativeDocumentMoniker": "QuizAppAPI\\Profiles\\QandAProfiles\\QandAMappingProfile.cs",
-              "ToolTip": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Profiles\\QandAProfiles\\QandAMappingProfile.cs",
-              "RelativeToolTip": "QuizAppAPI\\Profiles\\QandAProfiles\\QandAMappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T08:17:30.862Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "QandAController.cs",
-              "DocumentMoniker": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Controllers\\QandAController.cs",
-              "RelativeDocumentMoniker": "QuizAppAPI\\Controllers\\QandAController.cs",
-              "ToolTip": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Controllers\\QandAController.cs",
-              "RelativeToolTip": "QuizAppAPI\\Controllers\\QandAController.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAYwFYAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T08:15:15.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "UserLoginRegDTO.cs",
-              "DocumentMoniker": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Model\\DTO\\UsersDTOs\\UserLoginRegDTO.cs",
-              "RelativeDocumentMoniker": "QuizAppAPI\\Model\\DTO\\UsersDTOs\\UserLoginRegDTO.cs",
-              "ToolTip": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Model\\DTO\\UsersDTOs\\UserLoginRegDTO.cs",
-              "RelativeToolTip": "QuizAppAPI\\Model\\DTO\\UsersDTOs\\UserLoginRegDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T02:10:02.263Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "QandA.cs",
-              "DocumentMoniker": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Model\\Entity\\QandA.cs",
-              "RelativeDocumentMoniker": "QuizAppAPI\\Model\\Entity\\QandA.cs",
-              "ToolTip": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Model\\Entity\\QandA.cs",
-              "RelativeToolTip": "QuizAppAPI\\Model\\Entity\\QandA.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAuwAQAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T02:17:58.999Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UserChangePassDTO.cs",
-              "DocumentMoniker": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Model\\DTO\\UsersDTOs\\UserChangePassDTO.cs",
-              "RelativeDocumentMoniker": "QuizAppAPI\\Model\\DTO\\UsersDTOs\\UserChangePassDTO.cs",
-              "ToolTip": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Model\\DTO\\UsersDTOs\\UserChangePassDTO.cs",
-              "RelativeToolTip": "QuizAppAPI\\Model\\DTO\\UsersDTOs\\UserChangePassDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T02:13:24.954Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "QuizAppController.cs",
-              "DocumentMoniker": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Controllers\\QuizAppController.cs",
-              "RelativeDocumentMoniker": "QuizAppAPI\\Controllers\\QuizAppController.cs",
-              "ToolTip": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Controllers\\QuizAppController.cs",
-              "RelativeToolTip": "QuizAppAPI\\Controllers\\QuizAppController.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAkwFQAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T07:58:50.189Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "QuizInfoDTO.cs",
-              "DocumentMoniker": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Model\\DTO\\QuizDTOs\\QuizInfoDTO.cs",
-              "RelativeDocumentMoniker": "QuizAppAPI\\Model\\DTO\\QuizDTOs\\QuizInfoDTO.cs",
-              "ToolTip": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Model\\DTO\\QuizDTOs\\QuizInfoDTO.cs",
-              "RelativeToolTip": "QuizAppAPI\\Model\\DTO\\QuizDTOs\\QuizInfoDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T02:16:19.381Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AddUpQuizDTO.cs",
-              "DocumentMoniker": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Model\\DTO\\QuizDTOs\\AddUpQuizDTO.cs",
-              "RelativeDocumentMoniker": "QuizAppAPI\\Model\\DTO\\QuizDTOs\\AddUpQuizDTO.cs",
-              "ToolTip": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Model\\DTO\\QuizDTOs\\AddUpQuizDTO.cs",
-              "RelativeToolTip": "QuizAppAPI\\Model\\DTO\\QuizDTOs\\AddUpQuizDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T02:19:08.971Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "QuizzesMappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Profiles\\QuizzesProfiles\\QuizzesMappingProfile.cs",
-              "RelativeDocumentMoniker": "QuizAppAPI\\Profiles\\QuizzesProfiles\\QuizzesMappingProfile.cs",
-              "ToolTip": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Profiles\\QuizzesProfiles\\QuizzesMappingProfile.cs",
-              "RelativeToolTip": "QuizAppAPI\\Profiles\\QuizzesProfiles\\QuizzesMappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T06:05:54.934Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserMappingProfiles.cs",
-              "DocumentMoniker": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Profiles\\UsersProfiles\\UserMappingProfiles.cs",
-              "RelativeDocumentMoniker": "QuizAppAPI\\Profiles\\UsersProfiles\\UserMappingProfiles.cs",
-              "ToolTip": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Profiles\\UsersProfiles\\UserMappingProfiles.cs",
-              "RelativeToolTip": "QuizAppAPI\\Profiles\\UsersProfiles\\UserMappingProfiles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T03:00:08.737Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Model\\Entity\\User.cs",
-              "RelativeDocumentMoniker": "QuizAppAPI\\Model\\Entity\\User.cs",
-              "ToolTip": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Model\\Entity\\User.cs",
-              "RelativeToolTip": "QuizAppAPI\\Model\\Entity\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T03:49:43.423Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "QandAInfoDTO.cs",
-              "DocumentMoniker": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Model\\DTO\\QandAsDTOs\\QandAInfoDTO.cs",
-              "RelativeDocumentMoniker": "QuizAppAPI\\Model\\DTO\\QandAsDTOs\\QandAInfoDTO.cs",
-              "ToolTip": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Model\\DTO\\QandAsDTOs\\QandAInfoDTO.cs",
-              "RelativeToolTip": "QuizAppAPI\\Model\\DTO\\QandAsDTOs\\QandAInfoDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T02:17:56.057Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "QuizAppAPI.csproj",
-              "DocumentMoniker": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\QuizAppAPI.csproj",
-              "RelativeDocumentMoniker": "QuizAppAPI\\QuizAppAPI.csproj",
-              "ToolTip": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\QuizAppAPI.csproj",
-              "RelativeToolTip": "QuizAppAPI\\QuizAppAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-17T05:21:59.031Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "QuizAppAPI\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Controllers\\UserController.cs",
-              "RelativeToolTip": "QuizAppAPI\\Controllers\\UserController.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAlwEcAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T07:56:07.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Program.cs",
               "RelativeDocumentMoniker": "QuizAppAPI\\Program.cs",
               "ToolTip": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Program.cs",
               "RelativeToolTip": "QuizAppAPI\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAADwvzcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAwE4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-13T03:02:20.514Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Model\\DTO\\UsersDTOs\\UserRegisterDTO.cs",
+              "RelativeDocumentMoniker": "QuizAppAPI\\Model\\DTO\\UsersDTOs\\UserRegisterDTO.cs",
+              "ToolTip": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Model\\DTO\\UsersDTOs\\UserRegisterDTO.cs",
+              "RelativeToolTip": "QuizAppAPI\\Model\\DTO\\UsersDTOs\\UserRegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T02:21:00.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Model\\DTO\\UsersDTOs\\UserLoginDTO.cs",
+              "RelativeDocumentMoniker": "QuizAppAPI\\Model\\DTO\\UsersDTOs\\UserLoginDTO.cs",
+              "ToolTip": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Model\\DTO\\UsersDTOs\\UserLoginDTO.cs",
+              "RelativeToolTip": "QuizAppAPI\\Model\\DTO\\UsersDTOs\\UserLoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T05:14:28.774Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Model\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "QuizAppAPI\\Model\\Entity\\User.cs",
+              "ToolTip": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Model\\Entity\\User.cs",
+              "RelativeToolTip": "QuizAppAPI\\Model\\Entity\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T03:49:43.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250228050729_updated-Entities.cs",
+              "DocumentMoniker": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Migrations\\20250228050729_updated-Entities.cs",
+              "RelativeDocumentMoniker": "QuizAppAPI\\Migrations\\20250228050729_updated-Entities.cs",
+              "ToolTip": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Migrations\\20250228050729_updated-Entities.cs",
+              "RelativeToolTip": "QuizAppAPI\\Migrations\\20250228050729_updated-Entities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T05:07:29.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserLoginRegDTO.cs",
+              "DocumentMoniker": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Model\\DTO\\UsersDTOs\\UserLoginRegDTO.cs",
+              "RelativeDocumentMoniker": "QuizAppAPI\\Model\\DTO\\UsersDTOs\\UserLoginRegDTO.cs",
+              "ToolTip": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Model\\DTO\\UsersDTOs\\UserLoginRegDTO.cs",
+              "RelativeToolTip": "QuizAppAPI\\Model\\DTO\\UsersDTOs\\UserLoginRegDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T02:10:02.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250228050621_updated-Entities.cs",
+              "DocumentMoniker": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Migrations\\20250228050621_updated-Entities.cs",
+              "RelativeDocumentMoniker": "QuizAppAPI\\Migrations\\20250228050621_updated-Entities.cs",
+              "ToolTip": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Migrations\\20250228050621_updated-Entities.cs",
+              "RelativeToolTip": "QuizAppAPI\\Migrations\\20250228050621_updated-Entities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T05:06:22.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "UserInfoDTO.cs",
               "DocumentMoniker": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Model\\DTO\\UsersDTOs\\UserInfoDTO.cs",
               "RelativeDocumentMoniker": "QuizAppAPI\\Model\\DTO\\UsersDTOs\\UserInfoDTO.cs",
@@ -345,31 +370,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UserRegisterDTO.cs",
-              "DocumentMoniker": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Model\\DTO\\UsersDTOs\\UserRegisterDTO.cs",
-              "RelativeDocumentMoniker": "QuizAppAPI\\Model\\DTO\\UsersDTOs\\UserRegisterDTO.cs",
-              "ToolTip": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Model\\DTO\\UsersDTOs\\UserRegisterDTO.cs",
-              "RelativeToolTip": "QuizAppAPI\\Model\\DTO\\UsersDTOs\\UserRegisterDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "DocumentIndex": 18,
+              "Title": "UserChangePassDTO.cs",
+              "DocumentMoniker": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Model\\DTO\\UsersDTOs\\UserChangePassDTO.cs",
+              "RelativeDocumentMoniker": "QuizAppAPI\\Model\\DTO\\UsersDTOs\\UserChangePassDTO.cs",
+              "ToolTip": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Model\\DTO\\UsersDTOs\\UserChangePassDTO.cs",
+              "RelativeToolTip": "QuizAppAPI\\Model\\DTO\\UsersDTOs\\UserChangePassDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T02:21:00.088Z"
+              "WhenOpened": "2025-02-13T02:13:24.954Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "20250213060022_Made updates.cs",
-              "DocumentMoniker": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Migrations\\20250213060022_Made updates.cs",
-              "RelativeDocumentMoniker": "QuizAppAPI\\Migrations\\20250213060022_Made updates.cs",
-              "ToolTip": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Migrations\\20250213060022_Made updates.cs",
-              "RelativeToolTip": "QuizAppAPI\\Migrations\\20250213060022_Made updates.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 24,
+              "Title": "QandA.cs",
+              "DocumentMoniker": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Model\\Entity\\QandA.cs",
+              "RelativeDocumentMoniker": "QuizAppAPI\\Model\\Entity\\QandA.cs",
+              "ToolTip": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Model\\Entity\\QandA.cs",
+              "RelativeToolTip": "QuizAppAPI\\Model\\Entity\\QandA.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA+wAQAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T06:00:23.008Z"
+              "WhenOpened": "2025-02-13T02:17:58.999Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
+              "Title": "QuizAppAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\QuizAppAPI.csproj",
+              "RelativeDocumentMoniker": "QuizAppAPI\\QuizAppAPI.csproj",
+              "ToolTip": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\QuizAppAPI.csproj",
+              "RelativeToolTip": "QuizAppAPI\\QuizAppAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-28T02:12:29.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PatchQuizDTO.cs",
+              "DocumentMoniker": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Model\\DTO\\QuizDTOs\\PatchQuizDTO.cs",
+              "RelativeDocumentMoniker": "QuizAppAPI\\Model\\DTO\\QuizDTOs\\PatchQuizDTO.cs",
+              "ToolTip": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Model\\DTO\\QuizDTOs\\PatchQuizDTO.cs",
+              "RelativeToolTip": "QuizAppAPI\\Model\\DTO\\QuizDTOs\\PatchQuizDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T06:49:55.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "QandAMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Profiles\\QandAProfiles\\QandAMappingProfile.cs",
+              "RelativeDocumentMoniker": "QuizAppAPI\\Profiles\\QandAProfiles\\QandAMappingProfile.cs",
+              "ToolTip": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Profiles\\QandAProfiles\\QandAMappingProfile.cs",
+              "RelativeToolTip": "QuizAppAPI\\Profiles\\QandAProfiles\\QandAMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T08:17:30.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "QuizzesMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Profiles\\QuizzesProfiles\\QuizzesMappingProfile.cs",
+              "RelativeDocumentMoniker": "QuizAppAPI\\Profiles\\QuizzesProfiles\\QuizzesMappingProfile.cs",
+              "ToolTip": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Profiles\\QuizzesProfiles\\QuizzesMappingProfile.cs",
+              "RelativeToolTip": "QuizAppAPI\\Profiles\\QuizzesProfiles\\QuizzesMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T06:05:54.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserMappingProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Profiles\\UsersProfiles\\UserMappingProfiles.cs",
+              "RelativeDocumentMoniker": "QuizAppAPI\\Profiles\\UsersProfiles\\UserMappingProfiles.cs",
+              "ToolTip": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Profiles\\UsersProfiles\\UserMappingProfiles.cs",
+              "RelativeToolTip": "QuizAppAPI\\Profiles\\UsersProfiles\\UserMappingProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T03:00:08.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "Quiz.cs",
               "DocumentMoniker": "C:\\Users\\extgora\\source\\repos\\QuizAppAPI\\QuizAppAPI\\Model\\Entity\\Quiz.cs",
               "RelativeDocumentMoniker": "QuizAppAPI\\Model\\Entity\\Quiz.cs",

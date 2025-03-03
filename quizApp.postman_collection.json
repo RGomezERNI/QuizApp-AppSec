@@ -1,0 +1,190 @@
+{
+	"info": {
+		"_postman_id": "c665a5ba-841d-48f8-8f7f-ebdf25cb8396",
+		"name": "quizApp",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "41665113",
+		"_collection_link": "https://test22-4693.postman.co/workspace/Test-Workspace~07da3c3a-ca91-48a4-819c-68ce4bda8208/collection/41665113-c665a5ba-841d-48f8-8f7f-ebdf25cb8396?action=share&source=collection_link&creator=41665113"
+	},
+	"item": [
+		{
+			"name": "SignIn Basic User",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"const responseJson = pm.response.json();\r",
+							"pm.environment.set(\"authToken\", responseJson.token);"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"userName\": \"user\",\r\n  \"password\": \"password\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{base}}/api/User/SignIn",
+					"host": [
+						"{{base}}"
+					],
+					"path": [
+						"api",
+						"User",
+						"SignIn"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "SignIn Admin",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"const responseJson = pm.response.json();\r",
+							"pm.environment.set(\"authToken\", responseJson.token);"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"userName\": \"admin\",\r\n  \"password\": \"password\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{base}}/api/User/SignIn",
+					"host": [
+						"{{base}}"
+					],
+					"path": [
+						"api",
+						"User",
+						"SignIn"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "SignIn Admin2",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"const responseJson = pm.response.json();\r",
+							"pm.environment.set(\"authToken\", responseJson.token);"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"userName\": \"admin2\",\r\n  \"password\": \"password\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{base}}/api/User/SignIn",
+					"host": [
+						"{{base}}"
+					],
+					"path": [
+						"api",
+						"User",
+						"SignIn"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete Quiz",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"// Check if the response status code is 200\r",
+							"if (pm.response.code >= 200 && pm.response.code <= 300) {\r",
+							"    // Get the current quizId\r",
+							"    let currentQuizId = parseInt(pm.environment.get(\"quizId\"));\r",
+							"\r",
+							"    // Increment the quizId by 1\r",
+							"    currentQuizId += 1;\r",
+							"\r",
+							"    // Set the new value back to the environment variable\r",
+							"    pm.environment.set(\"quizId\", currentQuizId);\r",
+							"}"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{authToken}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "{{base}}/QuizApp/{{quizId}}",
+					"host": [
+						"{{base}}"
+					],
+					"path": [
+						"QuizApp",
+						"{{quizId}}"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"variable": [
+		{
+			"key": "quizId",
+			"value": ""
+		}
+	]
+}
